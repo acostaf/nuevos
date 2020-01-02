@@ -66,4 +66,21 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-"# nuevos" 
+"# nuevos"
+
+### Ideas
+
+¿Qué es? base de datos de visitantes de la iglesia, CRUD de usuarios de una manera segura
+
+Componentes :
+
+Frontend: React (html, js, css, bootstrap)
+Screen - Login screen by default
+Screen - List of users, with actions (CRU)
+Create new user screen (modal)
+Detail of existing user (modal)
+Update Existing user (modal)
+
+Backend: node.js (nestjs, auth0, mongodb – sql)
+CRUD against DB
+Security
