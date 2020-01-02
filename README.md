@@ -74,7 +74,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 Componentes :
 
-Frontend: React (html, js, css, bootstrap)
+Frontend:   React (html, js, css, bootstrap)
 Screen - Login screen by default
 Screen - List of users, with actions (CRU)
 Create new user screen (modal)
